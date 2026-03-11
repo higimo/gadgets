@@ -1,6 +1,6 @@
 <?php
 
-if ($argc < 3) {
+if ($argc < 2) {
     echo
         "Скрипт для добавления ссылки на MOC во все markdown-файлы внутри папки\n"
         . "Использовать так\n"
@@ -9,17 +9,22 @@ if ($argc < 3) {
     exit(1);
 }
 
+// TODO: спамит, что не хватает аргументов
 $directory = $argv[1];
-$mocName = $argv[2];
-$mockLink = "[[$mocName]]";
-$stats = ['processed' => 0, 'skipped' => 0, 'errors' => []];
+
+// $mockLink = "[[$mocName]]";
+$stats = [
+    'processed' => 0,
+    'skipped' => 0,
+    'errors' => []
+];
 
 if (!is_dir($directory)) {
     echo "Папки '$directory' не существует";
     exit(1);
 }
 
-$isRecursive = false;
+$isRecursive = true;
 
 switch ($isRecursive) {
     case true:
@@ -33,20 +38,48 @@ switch ($isRecursive) {
         break;
 }
 
+/**
+ * Отдаёт название MOC файла, если не нашёл — бросает исключение (чтоб знать, где надо завести мок)
+ */
+function getMocName(string $filePath): string {
+    $currentDir = dirname($filePath);
+    $baseName = basename(dirname($filePath));;
+
+    // Ищем MOC в каждой дирректории начиная с текущей и до уровня выше
+    while ($currentDir !== dirname($currentDir)) {
+        $mocFile = $currentDir . DIRECTORY_SEPARATOR . '!' . $baseName . '.md';
+        
+        if (file_exists($mocFile)) {
+            return pathinfo($mocFile, PATHINFO_FILENAME);
+        }
+        
+        $currentDir = dirname($currentDir);
+        $baseName = basename($currentDir);;
+    }
+    
+    throw new RuntimeException("Нет MOC-файла для '{$filePath}', надо его создать");
+}
+$i = 0;
 foreach ($iterator as $file) {
     if ($file->getExtension() !== 'md') {
         continue;
     }
-    
+
     $filePath = $file->getPathname();
-    
-    // Скипаем сам мок
-    if ($file->getFilename() === $mocName . ".md") {
-        $stats['skipped']++;
-        continue;
-    }
 
     try {
+        $mocName = getMocName($filePath);
+
+        if (++$i > 50) {
+            break;
+        }
+
+        // Скипаем сам моки
+        if ($file->getFilename() === $mocName . ".md") {
+            $stats['skipped']++;
+            continue;
+        }
+
         $content = file_get_contents($filePath);
         
         // Скипаем то, что уже ссылается
@@ -72,14 +105,14 @@ foreach ($iterator as $file) {
             $start = strlen($matchesFrontMatter[0][0]);
         }
 
-        $mocContent = ($start > 0 ? "\n\n" : '') . "$mockLink\n\n";
+        $mocContent = ($start > 0 ? "\n\n" : '') . "[[$mocName]]\n\n";
         $content = substr($content, 0, $start) . $mocContent . substr($content, $start, strlen($content));
 
         if (file_put_contents($filePath, $content)) {
             $stats['processed']++;
         } else {
             echo "❌ ошибка записи\n";
-            $stats['errors'][] = $file->getFilename();
+            $stats['errors'][] = $filePath;
         }
     } catch (Exception $error) {
         $stats['errors'][] = $error->getMessage();
