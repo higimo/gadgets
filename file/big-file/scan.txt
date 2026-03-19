@@ -1,0 +1,417 @@
+Scanning C:\ (max depth: 7)...
+Ignore list: node_modules, \.git, \.svn, \.vs, tmp, temp, cache, logs, Windows
+
+
+Scan completed in 159.9 seconds
+Found 1300 folders larger than 5MB
+
+C:\Program Files (x86) .... 446 Gb
+  C:\Program Files (x86)\Steam .... 439.9 Gb
+    C:\Program Files (x86)\Steam\steamapps .... 431.4 Gb
+      C:\Program Files (x86)\Steam\steamapps\common .... 431.4 Gb
+  C:\Users\higimo .... 257.7 Gb
+C:\Users .... 257.7 Gb
+    C:\Users\higimo\Desktop .... 229.1 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3 .... 144.6 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Data .... 143.9 Gb
+      C:\Users\higimo\Desktop\pron .... 143.8 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2 .... 114 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Bundles2 .... 99.3 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Bundles2\Streaming .... 86.2 Gb
+      C:\Users\higimo\Desktop\sort .... 77.8 Gb
+        C:\Users\higimo\Desktop\pron\photos .... 76.9 Gb
+    C:\Users\higimo\AppData .... 73.1 Gb
+          C:\Users\higimo\Desktop\pron\photos\real .... 67.2 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game .... 66.2 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING .... 66.2 Gb
+      C:\Users\higimo\AppData\Local .... 65.5 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3 .... 61.4 Gb
+        C:\Users\higimo\Desktop\sort\video .... 46.8 Gb
+          C:\Users\higimo\Desktop\sort\video\говорящая голова .... 44.6 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content .... 41.2 Gb
+        C:\Users\higimo\Desktop\pron\ChatExport_2025-10-21 (1) .... 38.7 Gb
+          C:\Users\higimo\Desktop\pron\ChatExport_2025-10-21 (1)\video_files .... 38.6 Gb
+            C:\Users\higimo\Desktop\pron\photos\real\model .... 32.6 Gb
+        C:\Users\higimo\AppData\Local\CapCut .... 32.1 Gb
+            C:\Users\higimo\Desktop\pron\photos\real\cosplay .... 24.9 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III .... 24.8 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game .... 24.8 Gb
+        C:\Users\higimo\Desktop\pron\wednesday .... 20.7 Gb
+          C:\Users\higimo\AppData\Local\CapCut\Videos .... 20.3 Gb
+          C:\Users\higimo\Desktop\pron\wednesday\video .... 18.1 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Data\Localization .... 17.7 Gb
+        C:\Users\higimo\Desktop\sort\photo .... 14.6 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content0 .... 14.1 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content4 .... 14.1 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\dlc .... 14.1 Gb
+    C:\Users\higimo\Videos .... 13.2 Gb
+      C:\Users\higimo\Videos\The Witcher 3 .... 13.2 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\FMOD\Desktop .... 11.5 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\FMOD .... 11.5 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Bundles2\Folders .... 11.4 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\Hades .... 11.1 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\Hades\Content .... 10.6 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\dlc\bob .... 10.6 Gb
+          C:\Users\higimo\Desktop\sort\photo\фотки .... 9.8 Gb
+        C:\Program Files (x86)\Steam\steamapps\common\Frostpunk .... 9 Gb
+          C:\Users\higimo\AppData\Local\CapCut\User Data .... 9 Gb
+        C:\Users\higimo\AppData\Local\Microsoft .... 8.8 Gb
+            C:\Users\higimo\Desktop\pron\photos\real\alt-goth-бельё .... 8.8 Gb
+C:\Program Files .... 8.5 Gb
+          C:\Users\higimo\Desktop\pron\photos\art .... 8.5 Gb
+            C:\Users\higimo\Desktop\pron\photos\art\2d .... 8 Gb
+    C:\Users\higimo\Downloads .... 7.6 Gb
+        C:\Users\higimo\AppData\Local\Google .... 7.3 Gb
+            C:\Users\higimo\AppData\Local\Google\Chrome\User Data .... 7.3 Gb
+          C:\Users\higimo\AppData\Local\Google\Chrome .... 7.3 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Hades\Content\Movies .... 7.3 Gb
+    C:\Program Files (x86)\Steam\userdata .... 7.2 Gb
+        C:\Users\higimo\Desktop\sort\pic .... 6.3 Gb
+      C:\Users\higimo\Desktop\подкаст .... 6.1 Gb
+        C:\Users\higimo\Desktop\pron\ai .... 6 Gb
+    C:\Users\higimo\Documents .... 5.6 Gb
+      C:\Users\higimo\AppData\Roaming .... 5.3 Gb
+        C:\Users\higimo\Desktop\sort\project .... 4.7 Gb
+          C:\Users\higimo\Desktop\sort\pic\SJ .... 4.7 Gb
+          C:\Users\higimo\Desktop\pron\ai\know .... 4.4 Gb
+  C:\Users\All Users .... 4.3 Gb
+C:\ProgramData .... 4.3 Gb
+  C:\Users\Все пользователи .... 4.3 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content1 .... 4.3 Gb
+  C:\Program Files (x86)\Microsoft .... 4.2 Gb
+      C:\Program Files (x86)\Steam\userdata\124592401 .... 3.9 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content5 .... 3.5 Gb
+      C:\Program Files (x86)\Steam\userdata\59802891 .... 3.3 Gb
+      C:\Users\higimo\Documents\The Witcher 3 .... 3.1 Gb
+        C:\Users\higimo\Desktop\подкаст\подкаст03-04 .... 3.1 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\ARTBOOK .... 3.1 Gb
+        C:\Users\higimo\Desktop\подкаст\02 микро .... 3 Gb
+        C:\Users\higimo\AppData\Local\Larian Studios .... 3 Gb
+          C:\Users\higimo\AppData\Local\Larian Studios\Baldur's Gate 3 .... 3 Gb
+          C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Art .... 2.9 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Art\Videos .... 2.9 Gb
+          C:\Users\higimo\AppData\Local\CapCut\Apps .... 2.8 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\movie .... 2.8 Gb
+          C:\Users\higimo\Desktop\sort\photo\006 .... 2.8 Gb
+            C:\Users\higimo\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles .... 2.5 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\sd .... 2.5 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\dlc\ep1 .... 2.4 Gb
+        C:\Users\higimo\Documents\The Witcher 3\screenshots .... 2.3 Gb
+  C:\Program Files\PostgreSQL .... 2.3 Gb
+      C:\Users\higimo\AppData\LocalLow .... 2.3 Gb
+        C:\Users\higimo\AppData\LocalLow\NVIDIA .... 2.3 Gb
+          C:\Users\higimo\AppData\LocalLow\NVIDIA\PerDriverVersion .... 2.3 Gb
+        C:\Users\higimo\AppData\Local\Programs .... 2.2 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Hades\Content\Win .... 2.1 Gb
+        C:\Users\higimo\AppData\Local\Yandex .... 1.9 Gb
+          C:\Users\higimo\AppData\Local\Yandex\YandexBrowser .... 1.9 Gb
+        C:\Users\higimo\AppData\Roaming\Telegram Desktop .... 1.9 Gb
+            C:\Users\higimo\Desktop\pron\ai\know\anime .... 1.9 Gb
+          C:\Users\higimo\Desktop\pron\wednesday\art .... 1.9 Gb
+        C:\Program Files (x86)\Steam\userdata\59802891\292030 .... 1.9 Gb
+          C:\Program Files (x86)\Steam\userdata\59802891\292030\ac .... 1.9 Gb
+            C:\Program Files (x86)\Steam\userdata\59802891\292030\ac\WinMyDocuments .... 1.9 Gb
+        C:\Users\higimo\Desktop\sort\итог выборка .... 1.8 Gb
+  C:\ProgramData\NVIDIA Corporation .... 1.8 Gb
+    C:\Users\All Users\NVIDIA Corporation .... 1.8 Gb
+    C:\Users\Все пользователи\NVIDIA Corporation .... 1.8 Gb
+          C:\Users\higimo\Desktop\sort\project\podkast .... 1.8 Gb
+    C:\Program Files (x86)\Microsoft\EdgeCore .... 1.8 Gb
+            C:\Users\higimo\Desktop\sort\pic\SJ\звонки SJ .... 1.8 Gb
+        C:\Program Files (x86)\Steam\userdata\124592401\1086940 .... 1.8 Gb
+          C:\Program Files (x86)\Steam\userdata\124592401\1086940\remote .... 1.8 Gb
+            C:\Program Files (x86)\Steam\userdata\124592401\1086940\remote\_SAVE_Public .... 1.8 Gb
+          C:\Users\higimo\AppData\Roaming\Telegram Desktop\tdata .... 1.7 Gb
+            C:\Users\higimo\Desktop\sort\pic\SJ\doc .... 1.7 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content2 .... 1.6 Gb
+        C:\Users\higimo\AppData\Local\Packages .... 1.6 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content10 .... 1.6 Gb
+            C:\Users\higimo\AppData\Roaming\Telegram Desktop\tdata\user_data .... 1.6 Gb
+    C:\Program Files (x86)\Microsoft\EdgeWebView .... 1.5 Gb
+      C:\Program Files (x86)\Microsoft\EdgeWebView\Application .... 1.5 Gb
+        C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition .... 1.5 Gb
+      C:\Users\higimo\Documents\Larian Studios .... 1.5 Gb
+        C:\Users\higimo\Desktop\sort\zip .... 1.5 Gb
+          C:\Users\higimo\Desktop\подкаст\02 микро\01 .... 1.5 Gb
+          C:\Users\higimo\Desktop\подкаст\02 микро\02 .... 1.5 Gb
+          C:\Users\higimo\Desktop\sort\photo\002 .... 1.5 Gb
+        C:\Program Files (x86)\Steam\userdata\59802891\760 .... 1.5 Gb
+            C:\Program Files (x86)\Steam\userdata\59802891\760\remote\292030 .... 1.5 Gb
+          C:\Program Files (x86)\Steam\userdata\59802891\760\remote .... 1.5 Gb
+            C:\Users\higimo\AppData\Local\CapCut\Apps\7.5.0.3044 .... 1.5 Gb
+            C:\Users\higimo\Desktop\sort\project\done\Итоги года .... 1.4 Gb
+          C:\Users\higimo\Desktop\sort\project\done .... 1.4 Gb
+C:\home .... 1.4 Gb
+        C:\Users\higimo\Desktop\pron\video .... 1.4 Gb
+        C:\Program Files (x86)\Steam\userdata\124592401\435150 .... 1.4 Gb
+          C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\PlayerProfiles .... 1.4 Gb
+          C:\Program Files (x86)\Steam\userdata\124592401\435150\remote .... 1.4 Gb
+            C:\Users\higimo\AppData\Local\CapCut\Apps\4.1.0.1647 .... 1.3 Gb
+    C:\Program Files\PostgreSQL\16 .... 1.3 Gb
+            C:\Users\higimo\Desktop\sort\photo\006\Photos-1-001 (2) .... 1.3 Gb
+            C:\Users\higimo\Desktop\sort\photo\006\Photos-1-001 (1) .... 1.3 Gb
+          C:\Users\higimo\Desktop\sort\video\video .... 1.3 Gb
+      C:\Users\higimo\Desktop\convert .... 1.3 Gb
+        C:\Users\higimo\Desktop\convert\convert .... 1.3 Gb
+          C:\Users\higimo\Desktop\convert\convert\cho-cho .... 1.3 Gb
+          C:\Users\higimo\Desktop\sort\project\sum25 .... 1.2 Gb
+            C:\Users\higimo\Desktop\sort\project\sum25\asset .... 1.2 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Path of Exile 2\Bundles2\Content .... 1.2 Gb
+          C:\Users\higimo\AppData\Local\Microsoft\OneDrive .... 1.2 Gb
+        C:\Users\higimo\AppData\Local\Razer .... 1.1 Gb
+            C:\Program Files (x86)\Steam\steamapps\common\Hades\Content\Audio .... 1.1 Gb
+        C:\Users\higimo\AppData\Local\GitHubDesktop .... 1.1 Gb
+            C:\Users\higimo\AppData\Local\Razer\RazerAppEngine\User Data .... 1.1 Gb
+          C:\Users\higimo\AppData\Local\Razer\RazerAppEngine .... 1.1 Gb
+      C:\Users\All Users\NVIDIA Corporation\Downloader .... 1 Gb
+      C:\Users\Все пользователи\NVIDIA Corporation\Downloader .... 1 Gb
+    C:\ProgramData\NVIDIA Corporation\Downloader .... 1 Gb
+        C:\Users\higimo\Desktop\sort\ОД .... 1003.8 Mb
+            C:\Users\higimo\AppData\Local\Yandex\YandexBrowser\Application .... 996.5 Mb
+  C:\Program Files\Razer .... 974.8 Mb
+          C:\Users\higimo\AppData\Local\Programs\CD Projekt Red .... 942.3 Mb
+            C:\Users\higimo\AppData\Local\Programs\CD Projekt Red\REDlauncher .... 942.3 Mb
+    C:\Program Files\PostgreSQL\17 .... 941.6 Mb
+            C:\Users\higimo\AppData\Local\Yandex\YandexBrowser\User Data .... 930 Mb
+      C:\Users\higimo\Documents\Звукозаписи .... 923.2 Mb
+    C:\Users\Все пользователи\Microsoft .... 891.9 Mb
+  C:\ProgramData\Microsoft .... 891.9 Mb
+    C:\Users\All Users\Microsoft .... 891.9 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\movie .... 889.7 Mb
+          C:\Users\higimo\Desktop\pron\ai\sort .... 889.3 Mb
+          C:\Users\higimo\AppData\Local\Microsoft\Edge .... 885.4 Mb
+            C:\Users\higimo\AppData\Local\Microsoft\Edge\User Data .... 885.4 Mb
+  C:\Program Files\NVIDIA Corporation .... 876.4 Mb
+        C:\Users\higimo\Documents\The Witcher 3\gamesaves .... 875.5 Mb
+  C:\Program Files\Google .... 849.6 Mb
+    C:\Program Files\Google\Chrome .... 849.6 Mb
+      C:\Program Files\Google\Chrome\Application .... 849.6 Mb
+      C:\Users\Все пользователи\NVIDIA Corporation\NVIDIA app .... 833.8 Mb
+    C:\ProgramData\NVIDIA Corporation\NVIDIA app .... 833.8 Mb
+      C:\Users\All Users\NVIDIA Corporation\NVIDIA app .... 833.8 Mb
+        C:\Users\Все пользователи\NVIDIA Corporation\NVIDIA app\UpdateFramework .... 824.7 Mb
+        C:\Users\All Users\NVIDIA Corporation\NVIDIA app\UpdateFramework .... 824.7 Mb
+      C:\ProgramData\NVIDIA Corporation\NVIDIA app\UpdateFramework .... 824.7 Mb
+          C:\Users\Все пользователи\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts .... 823.6 Mb
+            C:\Users\All Users\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts\nvapp .... 823.6 Mb
+        C:\ProgramData\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts .... 823.6 Mb
+          C:\Users\All Users\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts .... 823.6 Mb
+          C:\ProgramData\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts\nvapp .... 823.6 Mb
+            C:\Users\Все пользователи\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts\nvapp .... 823.6 Mb
+          C:\Users\higimo\Desktop\sort\pic\png .... 803.2 Mb
+    C:\Program Files (x86)\Microsoft\Edge .... 791.3 Mb
+        C:\Program Files (x86)\Microsoft\EdgeWebView\Application\141.0.3537.99 .... 789.1 Mb
+        C:\Program Files (x86)\Microsoft\EdgeWebView\Application\141.0.3537.71 .... 788.9 Mb
+      C:\Program Files (x86)\Microsoft\Edge\Application .... 787.3 Mb
+        C:\Program Files (x86)\Microsoft\Edge\Application\142.0.3595.53 .... 780.2 Mb
+        C:\Users\higimo\AppData\Local\Chromium .... 777.5 Mb
+          C:\Users\higimo\Desktop\pron\photos\insta .... 757.7 Mb
+          C:\Users\higimo\AppData\Local\Chromium\Application .... 751.6 Mb
+            C:\Users\higimo\AppData\Local\Chromium\Application\140.0.7339.208 .... 747.2 Mb
+        C:\Users\All Users\NVIDIA Corporation\Downloader\44e5bf2b5f999fd95c16c6c207bdf47a .... 736 Mb
+      C:\ProgramData\NVIDIA Corporation\Downloader\44e5bf2b5f999fd95c16c6c207bdf47a .... 736 Mb
+        C:\Users\Все пользователи\NVIDIA Corporation\Downloader\44e5bf2b5f999fd95c16c6c207bdf47a .... 736 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\SOUNDTRACK .... 699.4 Mb
+        C:\Program Files (x86)\Steam\userdata\124592401\323190 .... 694.8 Mb
+          C:\Program Files (x86)\Steam\userdata\124592401\323190\remote .... 694.8 Mb
+            C:\Program Files (x86)\Steam\userdata\124592401\323190\remote\saves .... 694.8 Mb
+            C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\PlayerProfiles\higimo .... 692.3 Mb
+            C:\Program Files (x86)\Steam\userdata\124592401\435150\remote\_SAVE_higimo .... 692.2 Mb
+      C:\Program Files\PostgreSQL\17\pgAdmin 4 .... 673.3 Mb
+            C:\Users\higimo\AppData\Local\Microsoft\OneDrive\25.199.1012.0002_1 .... 666.1 Mb
+            C:\Users\higimo\Desktop\sort\pic\SJ\скрины .... 664.5 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\sound .... 658.5 Mb
+      C:\Program Files\PostgreSQL\16\pgAdmin 4 .... 657.1 Mb
+            C:\Users\higimo\Desktop\pron\ai\sort\realistic .... 656.3 Mb
+            C:\ProgramData\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts\nvapp\post-processing .... 654.4 Mb
+          C:\Users\higimo\Desktop\sort\video\meme .... 646.3 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Blood and Wine extras .... 624.4 Mb
+      C:\Program Files (x86)\Microsoft\EdgeCore\141.0.3537.99 .... 619.4 Mb
+      C:\Program Files (x86)\Microsoft\EdgeCore\141.0.3537.71 .... 619.2 Mb
+      C:\Program Files (x86)\Microsoft\EdgeCore\142.0.3595.53 .... 616.9 Mb
+          C:\Users\higimo\Desktop\sort\ОД\Основа детства .... 607.9 Mb
+          C:\Users\higimo\AppData\Roaming\Blackmagic Design\DaVinci Resolve .... 595.6 Mb
+        C:\Users\higimo\AppData\Roaming\Blackmagic Design .... 595.6 Mb
+            C:\Users\higimo\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support .... 595.5 Mb
+        C:\Users\higimo\AppData\Roaming\Path of Exile 2 .... 593.9 Mb
+        C:\Users\higimo\AppData\Local\Steam .... 578.4 Mb
+  C:\Program Files (x86)\MSI .... 574.6 Mb
+    C:\Program Files (x86)\MSI\MSI Center .... 570.1 Mb
+    C:\Program Files\NVIDIA Corporation\NVIDIA app .... 556.9 Mb
+    C:\Users\Все пользователи\chocolatey .... 549.3 Mb
+  C:\ProgramData\chocolatey .... 549.3 Mb
+    C:\Users\All Users\chocolatey .... 549.3 Mb
+        C:\Users\higimo\AppData\Roaming\Code .... 541.6 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content3 .... 536.7 Mb
+      C:\Users\All Users\chocolatey\lib .... 532.3 Mb
+      C:\Users\Все пользователи\chocolatey\lib .... 532.3 Mb
+    C:\ProgramData\chocolatey\lib .... 532.3 Mb
+          C:\Users\higimo\Desktop\pron\wednesday\ai .... 520.9 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin .... 519.2 Mb
+        C:\Users\higimo\AppData\Local\NVIDIA .... 514.2 Mb
+          C:\Users\higimo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0 .... 507.8 Mb
+  C:\Program Files\Tenorshare .... 505.6 Mb
+    C:\Program Files\Tenorshare\Tenorshare 4DDiG .... 505.6 Mb
+            C:\Users\higimo\AppData\Local\CapCut\Videos\003(102) .... 502.4 Mb
+          C:\Users\higimo\AppData\Local\Programs\Xmind .... 501.3 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Blood and Wine extras\Blood and Wine OST .... 499.8 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content12 .... 496.7 Mb
+        C:\Users\higimo\AppData\Local\GameCenter .... 490.7 Mb
+            C:\Users\higimo\Desktop\pron\ai\know\movie .... 471.6 Mb
+  C:\Program Files\dotnet .... 463.6 Mb
+    C:\Program Files\dotnet\shared .... 462.1 Mb
+          C:\Users\higimo\Desktop\pron\photos\comix .... 459.1 Mb
+        C:\Users\higimo\AppData\Roaming\Zoom .... 449.6 Mb
+  C:\Program Files (x86)\Google .... 446.8 Mb
+    C:\Program Files (x86)\Google\GoogleUpdater .... 440.2 Mb
+C:\tools .... 437.8 Mb
+  C:\Program Files\Microsoft VS Code .... 435.6 Mb
+          C:\Users\higimo\AppData\Local\Programs\cursor .... 435.1 Mb
+            C:\Users\higimo\Desktop\pron\photos\real\bdsm .... 433.4 Mb
+          C:\Users\higimo\AppData\Local\GitHubDesktop\app-3.5.3 .... 429.6 Mb
+        C:\Users\higimo\AppData\Local\CrashDumps .... 425.2 Mb
+        C:\Program Files\Google\Chrome\Application\142.0.7444.60 .... 421.4 Mb
+  C:\Program Files\Git .... 418.9 Mb
+        C:\Program Files\Google\Chrome\Application\141.0.7390.107 .... 418.3 Mb
+          C:\Users\higimo\AppData\Local\GitHubDesktop\app-3.5.2 .... 417.8 Mb
+  C:\home\od-front .... 415.6 Mb
+            C:\Users\higimo\Desktop\pron\wednesday\ai\art .... 406.5 Mb
+            C:\Users\higimo\Desktop\pron\wednesday\video\art .... 405 Mb
+            C:\Users\higimo\Desktop\pron\ai\know\game .... 399.3 Mb
+    C:\Program Files\Razer\RzAppEngine .... 387 Mb
+      C:\Program Files\Razer\RzAppEngine\1.49.0.0 .... 385.4 Mb
+          C:\Users\higimo\AppData\Roaming\Zoom\bin .... 384.5 Mb
+    C:\Program Files (x86)\Steam\bin .... 383.1 Mb
+            C:\Users\higimo\Desktop\pron\photos\art\3d .... 382.9 Mb
+          C:\Users\higimo\AppData\Local\Microsoft\Olk .... 375.9 Mb
+            C:\Users\higimo\AppData\Local\Microsoft\Olk\EBWebView .... 375.5 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Launcher .... 370.2 Mb
+          C:\Users\higimo\Desktop\sort\pic\screen .... 368.1 Mb
+          C:\Users\higimo\AppData\Local\Programs\9xbuddy .... 364.5 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game\movie_dlc .... 364.3 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\Launcher\runtimes .... 359.4 Mb
+  C:\tools\Cmder .... 356.8 Mb
+          C:\Users\higimo\AppData\Roaming\Xmind\Electron v3 .... 356.7 Mb
+        C:\Users\higimo\AppData\Roaming\Xmind .... 356.7 Mb
+    C:\tools\Cmder\vendor .... 356.5 Mb
+      C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF .... 351.4 Mb
+            C:\Users\higimo\AppData\Local\Microsoft\OneDrive\25.199.1012.0002 .... 349.7 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\MAP .... 347.9 Mb
+    C:\Program Files\Razer\RazerAppEngine .... 344.8 Mb
+      C:\Program Files\Razer\RazerAppEngine\app-4.0.563 .... 342.6 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64_dx12 .... 342.5 Mb
+        C:\Program Files (x86)\Steam\bin\cef\cef.win7x64 .... 342.4 Mb
+      C:\Program Files (x86)\Steam\bin\cef .... 342.4 Mb
+            C:\Users\higimo\AppData\Roaming\Xmind\Electron v3\vana .... 341.7 Mb
+            C:\Users\higimo\Desktop\sort\pic\SJ\Задачи для SJ .... 325.5 Mb
+            C:\Users\higimo\Desktop\sort\project\podkast\export .... 317.3 Mb
+          C:\Users\higimo\Desktop\sort\photo\005 .... 316.2 Mb
+      C:\Program Files\PostgreSQL\16\share .... 314.2 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\bin .... 312.9 Mb
+            C:\Users\higimo\Desktop\pron\photos\insta\Алия .... 304.7 Mb
+  C:\Program Files\OpenVPN Connect .... 301.6 Mb
+        C:\Program Files\PostgreSQL\17\pgAdmin 4\runtime .... 299.3 Mb
+        C:\Program Files\PostgreSQL\16\pgAdmin 4\runtime .... 299 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist .... 298.4 Mb
+        C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared .... 298.4 Mb
+            C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\PlayerProfiles\Hozyain jep .... 285.9 Mb
+            C:\Program Files (x86)\Steam\userdata\124592401\435150\remote\_SAVE_Hozyain jep .... 285.9 Mb
+        C:\Program Files\PostgreSQL\17\pgAdmin 4\python .... 280.7 Mb
+            C:\Users\higimo\Desktop\pron\photos\real\asian .... 279.7 Mb
+  C:\$Recycle.Bin\S-1-5-21-1384313627-3284528570-3769615888-1001 .... 277.8 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\Hades\x64 .... 277.4 Mb
+  C:\Program Files\Obsidian .... 277.1 Mb
+  C:\home\home-page .... 271 Mb
+    C:\Users\All Users\NVIDIA .... 269.8 Mb
+  C:\ProgramData\NVIDIA .... 269.8 Mb
+    C:\Users\Все пользователи\NVIDIA .... 269.8 Mb
+    C:\ProgramData\NVIDIA\NGX .... 269.3 Mb
+      C:\ProgramData\NVIDIA\NGX\models .... 269.3 Mb
+        C:\Users\All Users\NVIDIA\NGX\models .... 269.3 Mb
+      C:\Users\Все пользователи\NVIDIA\NGX .... 269.3 Mb
+        C:\Users\Все пользователи\NVIDIA\NGX\models .... 269.3 Mb
+      C:\Users\All Users\NVIDIA\NGX .... 269.3 Mb
+    C:\edb\languagepack\v4 .... 267.9 Mb
+  C:\edb\languagepack .... 267.9 Mb
+C:\edb .... 267.9 Mb
+        C:\Program Files\PostgreSQL\16\pgAdmin 4\python .... 267.1 Mb
+        C:\Users\higimo\AppData\Roaming\discord .... 265.3 Mb
+        C:\Users\Все пользователи\chocolatey\lib\ffmpeg .... 265 Mb
+        C:\Users\All Users\chocolatey\lib\ffmpeg .... 265 Mb
+      C:\ProgramData\chocolatey\lib\ffmpeg .... 265 Mb
+          C:\Users\higimo\Desktop\sort\video\играю на гитаре .... 263.9 Mb
+            C:\Program Files\PostgreSQL\17\pgAdmin 4\python\Lib\site-packages .... 258.3 Mb
+          C:\Program Files\PostgreSQL\17\pgAdmin 4\python\Lib .... 258.3 Mb
+    C:\Program Files\NVIDIA Corporation\Installer2 .... 253.5 Mb
+          C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Hearts of Stone extras .... 250.5 Mb
+          C:\Users\All Users\NVIDIA\NGX\models\dlss .... 250.5 Mb
+            C:\Users\All Users\NVIDIA\NGX\models\dlss\versions .... 250.5 Mb
+          C:\Users\Все пользователи\NVIDIA\NGX\models\dlss .... 250.5 Mb
+            C:\Users\Все пользователи\NVIDIA\NGX\models\dlss\versions .... 250.5 Mb
+          C:\ProgramData\NVIDIA\NGX\models\dlss\versions .... 250.5 Mb
+        C:\ProgramData\NVIDIA\NGX\models\dlss .... 250.5 Mb
+            C:\Program Files\PostgreSQL\16\pgAdmin 4\python\Lib\site-packages .... 245.2 Mb
+          C:\Program Files\PostgreSQL\16\pgAdmin 4\python\Lib .... 245.2 Mb
+            C:\Users\higimo\Desktop\pron\ai\know\большие сиси .... 244.8 Mb
+          C:\Users\higimo\AppData\Local\GitHubDesktop\packages .... 241.7 Mb
+        C:\Users\higimo\AppData\Local\NVIDIA Corporation .... 241.5 Mb
+          C:\Users\All Users\chocolatey\lib\ffmpeg\tools .... 240.3 Mb
+          C:\Users\Все пользователи\chocolatey\lib\ffmpeg\tools .... 240.3 Mb
+        C:\ProgramData\chocolatey\lib\ffmpeg\tools .... 240.3 Mb
+            C:\Users\All Users\chocolatey\lib\ffmpeg\tools\ffmpeg .... 240.3 Mb
+          C:\ProgramData\chocolatey\lib\ffmpeg\tools\ffmpeg .... 240.3 Mb
+            C:\Users\Все пользователи\chocolatey\lib\ffmpeg\tools\ffmpeg .... 240.3 Mb
+            C:\Users\higimo\Desktop\sort\pic\screen\site-screen .... 235.8 Mb
+        C:\Users\higimo\AppData\Local\obsidian-updater .... 235.7 Mb
+            C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\PlayerProfiles\leo .... 234.6 Mb
+            C:\Program Files (x86)\Steam\userdata\124592401\435150\remote\_SAVE_leo .... 234.5 Mb
+        C:\Users\higimo\Desktop\sort\doc .... 234.2 Mb
+            C:\Users\higimo\AppData\Roaming\Path of Exile 2\PaymentPackage\ru_RU .... 231.8 Mb
+          C:\Users\higimo\AppData\Roaming\Path of Exile 2\PaymentPackage .... 231.8 Mb
+            C:\ProgramData\chocolatey\lib\ffmpeg\tools\ffmpeg\bin .... 231 Mb
+            C:\Users\higimo\AppData\Local\GameCenter\Chrome\109.5414.2719 .... 226.9 Mb
+          C:\Users\higimo\AppData\Local\GameCenter\Chrome .... 226.9 Mb
+    C:\Program Files (x86)\Steam\package .... 225.7 Mb
+            C:\Users\higimo\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\PlayerProfiles\klubnika .... 223.2 Mb
+            C:\Program Files (x86)\Steam\userdata\124592401\435150\remote\_SAVE_klubnika .... 223.2 Mb
+  C:\home\assets .... 221.4 Mb
+    C:\Program Files\Git\mingw64 .... 220.5 Mb
+      C:\Program Files\PostgreSQL\16\bin .... 219 Mb
+            C:\Users\higimo\Desktop\pron\photos\comix\sort .... 217.9 Mb
+    C:\home\assets\project .... 214.2 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content6 .... 213.3 Mb
+            C:\Users\higimo\AppData\Local\Programs\Xmind\resources .... 212.1 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Hearts of Stone extras\Hearts of Stone OST .... 211.4 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content9 .... 210.1 Mb
+  C:\Program Files (x86)\NVIDIA Corporation .... 209.3 Mb
+      C:\Program Files\dotnet\shared\Microsoft.NETCore.App .... 202.8 Mb
+      C:\Program Files\NVIDIA Corporation\Installer2\Display.PhysX.{DBE52932-5721-4EB6-AB1E-4FD5DF4270F1} .... 201.1 Mb
+    C:\Program Files (x86)\NVIDIA Corporation\PhysX .... 198.2 Mb
+        C:\Program Files\NVIDIA Corporation\Installer2\Display.PhysX.{DBE52932-5721-4EB6-AB1E-4FD5DF4270F1}\files .... 198.2 Mb
+          C:\Program Files\NVIDIA Corporation\Installer2\Display.PhysX.{DBE52932-5721-4EB6-AB1E-4FD5DF4270F1}\files\Engine .... 196 Mb
+      C:\Program Files (x86)\NVIDIA Corporation\PhysX\Engine .... 196 Mb
+        C:\Program Files\Razer\RzAppEngine\1.49.0.0\Installer .... 195.7 Mb
+    C:\Program Files\Razer\Streamer Companion App Setup .... 191.6 Mb
+    C:\Program Files\Git\usr .... 190.9 Mb
+      C:\home\assets\project\bitrix .... 190.8 Mb
+        C:\home\assets\project\bitrix\new-year-2024 .... 189 Mb
+          C:\home\assets\project\bitrix\new-year-2024\asset .... 189 Mb
+            C:\Users\higimo\Desktop\pron\ai\know\брюнетка .... 188.9 Mb
+  C:\Program Files (x86)\Razer .... 188.6 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\dlc\dlc10 .... 183.6 Mb
+        C:\Program Files\PostgreSQL\16\share\contrib .... 182.1 Mb
+          C:\Users\higimo\AppData\Local\Microsoft\TypeScript .... 181.2 Mb
+    C:\Program Files\VideoLAN\VLC .... 180.8 Mb
+  C:\Program Files\VideoLAN .... 180.8 Mb
+        C:\Users\higimo\AppData\Local\NuGet .... 179.4 Mb
+        C:\Users\higimo\AppData\Local\PHP Language Server .... 179 Mb
+            C:\Users\higimo\AppData\Local\CapCut\Videos\003(76) .... 176.4 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64 .... 175.5 Mb
+        C:\Users\higimo\AppData\Local\xmind-updater .... 175.4 Mb
+        C:\Users\higimo\AppData\Roaming\obsidian .... 171.4 Mb
+          C:\Program Files (x86)\Microsoft\EdgeWebView\Application\141.0.3537.99\ResiliencyLinks .... 169.7 Mb
+          C:\Program Files (x86)\Microsoft\EdgeWebView\Application\141.0.3537.71\ResiliencyLinks .... 169.6 Mb
+            C:\ProgramData\NVIDIA Corporation\NVIDIA app\UpdateFramework\ota-artifacts\nvapp\241407d0d505673fd4d654200345ed76 .... 169.2 Mb
+            C:\Users\higimo\Desktop\pron\photos\real\fuck .... 168.2 Mb
+          C:\Users\higimo\Desktop\sort\photo\004 .... 166 Mb
+            C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\content\content11 .... 165.4 Mb
